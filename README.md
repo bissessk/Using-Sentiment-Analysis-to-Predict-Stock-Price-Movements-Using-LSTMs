@@ -1,2 +1,3 @@
-# Using-Sentiment-Analysis-to-Predict-Stock-Price-Movments-Using-LSTMs
-Final Project | Deep Learning | CS-GY 9223
+# The Effect of Sentiment Analysis on Stock Price Prediction using LSTMs
+# Final Project | Deep Learning | CS-GY 9223
+# Kieran Bissessar and Efrain Galarza
