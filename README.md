@@ -6,7 +6,7 @@
 ---
 
 ## Data Files
-* `appleNextDayNorm.csv`: 
+* `appleNextDayNorm.csv` 
 * `appleNextDayNotNorm.csv`
 * `appleSameDayNorm.csv`
 * `appleSameDayNotNorm.csv`
