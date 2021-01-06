@@ -21,8 +21,6 @@ NextDay or SameDay refers to whether we were trying to predict the stock price c
 
 Norm or NotNorm refers to whether we used the normalized labels or not 
 
----
-
 ## Notebooks
 * Data Prep
 	* `dataExplorationipynb.ipynb`
